@@ -111,8 +111,9 @@ body {
 }
 
 .card__author {
-  cursor: pointer;
   color: white;
+  cursor: pointer;
+  text-decoration: none;
 }
 
 .card__author:hover {

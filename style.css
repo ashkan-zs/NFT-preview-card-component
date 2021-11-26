@@ -59,6 +59,7 @@ body {
 .card__title {
   color: white;
   cursor: pointer;
+  font-size: 24px;
 }
 
 .card__title:hover {
@@ -72,7 +73,6 @@ body {
 }
 
 .card__body {
-  line-height: 1.6;
   border-bottom: 1px solid hsl(215, 32%, 27%);
 }
 
